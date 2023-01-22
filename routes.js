@@ -7,11 +7,6 @@ import deleteBeer from "./controllers/deleteBeer.js";
 
 const router = new Router();
 
-router
-    .get("/beers", getBeers)
-    .get("/beers/:id", getBeerDetails)
-    .post("/beers", createBeer)
-    .put("/beers/:id", updateBeer)
-    .delete("/beers/:id", deleteBeer)
+router.get("/beers", getBeers).get("/beers/:id", getBeerDetails).post("/beers", createBeer).put("/beers/:id", updateBeer).delete("/beers/:id", deleteBeer);
 
 export default router;
