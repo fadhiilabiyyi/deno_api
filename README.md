@@ -1,6 +1,6 @@
 # DENO_API
 
-I'm trying to make a rest API service using javascript and my friend recommended me to use [deno](https://deno.land/), so here's a simple project I'm exemplifying.
+I'm trying to make a rest API service using javascript and my friend recommended me to use [deno](https://deno.land/), so here's a simple project I'm exemplifying. I follow the guide on this [link](https://blog.logrocket.com/how-to-create-rest-api-deno-postgres/).
 
 ## Installation
 
